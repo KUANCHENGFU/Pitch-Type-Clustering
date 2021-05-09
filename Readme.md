@@ -1,11 +1,11 @@
 
-# Pitch Types Clustering
+# Pitch Type Clustering
 
 ## Overview
-The goal of this task is to develop a framework which is capable of clustering pitch types based on pysical characteristics such as movement of the pitch, release point of the pitch, and so on. Exploratory data analysis, k-means clustering, and truncated SVD are applied to this project. This project is basically composed of three parts as follows:
-1. Perform exploratory data analysis such as variable selection and unusual value detection
-2. Cluster the pitch types using k-means clustering
-3. Plot the position of the pitch types in 2D space using truncated SVD
+The goal of this project is to develop a framework which is capable of clustering pitches on the basis of their physical characteristics such as speed, movement, release point, and so on. This project is basically composed of three parts as follows:
+1. Perform exploratory data analysis including variable selection and unusual value detection
+2. Cluster the pitches using k-means clustering
+3. Project the pitches onto a two-dimensional space using truncated SVD
 
 
 ## Link to the Project
