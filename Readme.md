@@ -9,4 +9,4 @@ The goal of this project is to develop a framework which is capable of clusterin
 
 
 ## Link to the Project
-1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Pitch-Types-Clustering/blob/main/Pitch_types_clustering.ipynb
+1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Pitch-Type-Clustering/blob/main/Pitch_type_clustering.ipynb
